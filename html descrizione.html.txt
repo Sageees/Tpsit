@@ -1,0 +1,18 @@
+ <html>
+		<head>
+		<title>La mia persona</title>
+		
+		
+		</head>
+		
+		<body>
+		<p><h1>Mi chiamo Raul Daniel Ungurean, ho 16, classe 3b, istituto Maxwell,nato il 12/05/08 e sono di Torino.</h1> </p>
+		<p>Sono cresciuto per i primi anni della mia vita a Parella, e dopo mi sono trasferito a Mirafiori all'età di circa 10 anni.</p>
+		<p>Sono molto paziente e vado abbastanza d'accordo con tutti.</p>
+		<p><br>Mi piacciono molto i videogiochi, in particolare gli FPS,Mi piace il basket,e mi piace far divertire le persone.</br></p>
+		<p>Sono bravo negli FPS. Ho imparato a studiare senza affaticarmi. Sono bravo in inglese</p>
+		<p><br>Negli FPS e semplicemente accumulato ore di gioco. Per imparare a studiare hgo chiesto a mia sorella laureata come non si stacava. L'inglese l'ho imparato giocando</br></p>
+		<p>Vorrei diventare un pro player nei videogiochi FPS e non e il mio piano B è seguire un corso di sviluppo informatico e successivamente trovare lavoro con il certificato.</p>
+		<p><br>Devi essere in grado di superate i tuoi avversari e vincere da solo.</br></p>
+		<p>img src="https://cdn.discordapp.com/attachments/1293254416597782612/1293254779832762462/IMG-20240922-WA0007.jpg?ex=6706b4df&is=6705635f&hm=c38e73e3dc0892646aefa0bb32fb838af4aeccec0c74fa6bbd593b7ba6902b4d&"</p>
+		</body>
