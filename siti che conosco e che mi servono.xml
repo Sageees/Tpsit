@@ -1,0 +1,74 @@
+crea un div delle dimensioni che desideri  con 10 link ai tuoi siti preferiti con la descrizione
+
+esempio
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    #linkutili{
+        background-color: rgb(231, 228, 228);
+        border:1px solid black
+
+    }
+</style>
+
+</head>
+<body>
+<div id="linkutili">
+
+
+    <p>
+        Il mio sito di riferimento è:
+       
+        <a href="https://www.w3schools.com/html/default.asp"&gt; Il mio libro di HTML</a>
+   
+    </p>
+    <p>
+        Sito da dove imparo a programmare
+        <a href="https://www.marcopalladino.it"&gt; Sito del mio prof.</a>
+    </p>
+    <p>
+        Sito da dove guardo una persona
+        <a href="https://www.facebook.com/pasquale.maiullari.3/?locale=it_IT"&gt; Sito del mio idolo.</a>
+    </p>
+    <p>
+        Sito da dove guardo video per pensare al 2016
+        <a href="https://www.youtube.com/channel/UCWP5pJ69EzUT4QnEkZfaY5A"&gt; Sito dello youtuber migliore del 2016.</a>
+    </p>
+    <p>
+        Sito da dove imparo a risolvere problemi tecnici
+        <a href="https://www.aranzulla.it/"&gt; Sito migliore per risolvere problemi tecnici.</a>
+    </p>
+    <p>
+        Sito da dove imparo a non programmare
+        <a href="https://openai.com/index/chatgpt/"&gt; Sito per gente che non sa programmare.</a>
+    </p>
+    <p>
+        Sito da dove guardo la canzone più conosciuta trai giovani
+        <a href="https://youtu.be/ookGv44MMd4?si=-6nUW9Gi922PhrLk"&gt; Sito della canzone italiana più famosa trai giovani.</a>
+    </p>
+    <p>
+        Sito da dove posso vedere cosa succede nel mondo esterno
+        <a href="https://www.youtube.com/@Tweener"&gt; Sito del mio informatore online preferito.</a>
+    </p>
+    <p>
+        Sito da dove imparo a cunicare gli hamburger
+        <a href="https://www.youtube.com/@CiccioGamer89"&gt; Sito del mio meat chef preferito.</a>
+    </p>
+    <p>
+        Sito da dove guardo film interessanti o meno
+        <a href="https://www.netflix.com/it/"&gt; Sito dove guardo film.</a>
+    </p>
+    <p>
+        Sito da dove guardo la gente streammare e dove faccio stream
+        <a href="https://www.twitch.tv/"&gt; Sito dove streammo.</a>
+    </p>
+    
+
+</div>
