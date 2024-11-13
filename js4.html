@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #es{
+            border: 1px solid black;
+            background-color: grey;
+            padding: 10px;
+            margin: 5px;
+
+
+        }
+        body{
+            background-image: url('https://www.amarlaviaggi.it/wp-content/uploads/2024/02/pexels-axp-photography-19124733-scaled.jpg');
+            
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <label for="val1">Inizio</label>
+    <input type="text" name="" id="val1" >
+    <br>
+    <label for="val2">Pausa</label>
+    <input type="text" name="" id="val2">
+    <br>
+    <label for="val3">Arrivo</label>
+    <input type="text" name="" id="val3" >
+    <br>
+    <button id="es" onclick="Calcola()">Calcola</button>
+    
+    <p id="out">Risultats</p>
+    </div>
+    <script>
+        const elementOut=document.getElementById("out")
+        function Calcola(){
+            const v1=parseFloat(document.getElementById)("val1").value;
+            const v2=parseFloat(document.getElementById)("val2").value;
+            const v3=parseFloat(document.getElementById)("val3").value;
+            const dislivellototale = Math.abs(v2-v1) + Math.abs(v3-v1);
+            
+            
+            
+        }
+    </script>
+</body>
+</html>
