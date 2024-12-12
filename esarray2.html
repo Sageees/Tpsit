@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        #container{
+            height: 200px;
+            width: 500px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    </p>
+    <button onclick="getTime()"> test sul click</button>
+    <div id="container">
+        <p id="out1"></p>
+         </div>
+
+
+         <button onclick="stampaArray()"> stampa array</button>
+         <p id="out2"></p>
+
+
+
+
+<script>
+    let numeri=[];
+   
+   
+    const mioOutput=document.getElementById("out1");
+    const mioOutput2=document.getElementById("out2");
+   setInterval(getTime,3000)
+
+
+
+  function getTime(){
+    let x=Math.round((Math.random()*90)+1);
+    mioOutput.innerHTML=x;
+                    
+    RiempiArrayConNumeri(x)
+
+
+  }
+
+
+  function RiempiArrayConNumeri(numerodainserire){
+  
+    numeri.push(numerodainserire);
+    }
+
+
+
+function  stampaArray(){
+ 
+    mioOutput2.innerHTML=numeri;
+    
+}
+
+</script>
+
+</body>
+</html>
